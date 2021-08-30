@@ -7,7 +7,9 @@ Solidity:
 npm install -g truffle ethereumjs-testrpc
 npm install truffle-contract web3 bluebird fetch --save
 
-For more details, refer the package.json file of the project
+For more details, refer the package.json file of the project.
+
+If you're cloning this project for reference, issue npm install from the project root to install the dependencies.
 
 Spring Boot:
 
@@ -39,3 +41,5 @@ Steps to run the project and test the Oracle implementation:
 3. In a new terminal, run client.js by issuing node client.js [Repeat this step twice to notice the updates made to the customerRisk value]
 
 *** Note: The simulation uses web3 to communicate with the oracle/ external API and the blockchain 
+
+For suggestions/ clarifications, please reach out to rajapandianc@outlook.in
